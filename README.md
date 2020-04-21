@@ -24,10 +24,10 @@ Your install is complete
 
 
 =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#
-# DEVELOPER: ARMAN HOSSAIN ANTU // ANTU1024                    #
-# TWITTER  : https://twitter.com/antu1024                      #
-# ABOUT IT : MR. MD5 is a Free MD5 Encrypt & Decrypt Tools     #
-# VERSION  : @1.0                                              #
+DEVELOPER: ARMAN HOSSAIN ANTU // ANTU1024                    #
+TWITTER  : https://twitter.com/antu1024                      #
+ABOUT IT : MR. MD5 is a Free MD5 Encrypt & Decrypt Tools     #
+VERSION  : @1.0                                              #
 =#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#
 
 [||] 1// Encrypt
