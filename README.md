@@ -23,3 +23,6 @@ Your install is complete
 
 # Enjoy The SCRIPT :))
 
+If you have find any problem & fix any bug . Please Contact me.
+
+Mail to: armanantu19@yahoo.com
