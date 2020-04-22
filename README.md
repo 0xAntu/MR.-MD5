@@ -14,27 +14,7 @@ Your install is complete
 
 # Now you can see such pages
 
- __  __ _____      __  __ _____  _____
-|  \/  |  __ \    |  \/  |  __ \| ____|
-| \  / | |__) |   | \  / | |  | | |__
-| |\/| |  _  /    | |\/| | |  | |___ \
-| |  | | | \ \ _  | |  | | |__| |___) |
-|_|  |_|_|  \_(_) |_|  |_|_____/|____/
-
-
-
-=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#
-DEVELOPER: ARMAN HOSSAIN ANTU // ANTU1024                    #
-TWITTER  : https://twitter.com/antu1024                      #
-ABOUT IT : MR. MD5 is a Free MD5 Encrypt & Decrypt Tools     #
-VERSION  : @1.0                                              #
-=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#
-
-[||] 1// Encrypt
-[||] 2// Decrypt
-[||] 3// Quit
-[#] Select your Mode (1,2,3):>>
-
+![123](https://user-images.githubusercontent.com/58564723/79970080-4138b000-8447-11ea-8eae-35cea05161a2.JPG)
 
 # Enjoy The SCRIPT :))
 
