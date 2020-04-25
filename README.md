@@ -12,7 +12,9 @@ Step2: cd MR.-MD5
 
 Step3: pip install -r requirements.txt
 
-Step4: python3 md5.py
+Step4: pip3 install pyfiglet
+
+Step5: python3 md5.py
 
 # congratulations
 Your install is complete
