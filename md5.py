@@ -66,7 +66,7 @@ elif selection==2:
 		print("=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#")
 		print("=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#")
 		print("")
-		wordlist = input("## ENTER PATH TO THE HASH FILE: ")
+		wordlist = input("## ENTER PATH TO THE HASH FILE (Type 'w.txt'): ")
 		print("")
 		print("=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#")
 		tryOpen(wordlist)
