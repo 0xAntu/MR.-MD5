@@ -10,11 +10,9 @@ Step1: git clone https://github.com/antu1024/MR.-MD5.git
 
 Step2: cd MR.-MD5
 
-Step3: pip install -r requirements.txt
+Step3: pip3 install -r requirements.txt
 
-Step4: pip3 install pyfiglet
-
-Step5: python3 md5.py
+Step4: python3 md5.py
 
 # congratulations
 Your install is complete
