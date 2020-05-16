@@ -102,8 +102,7 @@ elif selection==2:
 	elif selection==2:
 		print("=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#")
 		print("")
-		print("## This option is now Under Construction. Please use our        ")
-		print("   Dictionary Attack. sorry for the Minor trouble .            #")
+		print("## Please type this Command.< pyhton3 web-md5.py //MD5_Hash// >#")
 		print("")  
 		print("=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#")
 		print("=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#")
