@@ -1,3 +1,8 @@
 pyfiglet
 requests
 cryptography
+bs4
+beautifulsoup4
+times
+sys
+os-sys
