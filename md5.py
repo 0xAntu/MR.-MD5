@@ -9,7 +9,7 @@ print("=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#")
 print("# DEVELOPER: ARMAN HOSSAIN ANTU // ANTU1024                    #")
 print("# TWITTER  : https://twitter.com/antu1024                      #")
 print("# ABOUT IT : MR. MD5 is a Free MD5 Encrypt & Decrypt Tools     #")
-print("# VERSION  : @1.0                                              #")
+print("# VERSION  : @2.0                                              #")
 print("=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#=#")
 print("")
 
